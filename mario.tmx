@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="360" height="27" tilewidth="16" tileheight="16" backgroundcolor="#8d9483">
+ <tileset firstgid="1" name="SNES---Super-Mario-All-Stars-Super-Mario-Bros---Full-Tileset" tilewidth="16" tileheight="16" spacing="2">
+  <image source="../../../../../Downloads/SNES---Super-Mario-All-Stars-Super-Mario-Bros---Full-Tileset.png" width="485" height="546"/>
+ </tileset>
+ <tileset firstgid="811" name="SNES---Super-Mario-World---Backgrounds" tilewidth="512" tileheight="432" spacing="2" margin="2">
+  <image source="../../../../../Downloads/SNES---Super-Mario-World---Backgrounds.png" width="1032" height="2174"/>
+ </tileset>
+ <layer name="background" width="360" height="27">
+  <data encoding="base64" compression="zlib">
+   eJztzTENAAAIA7Al2MG/vjng5mgNNAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOCy4/f7/f6PfwHtlgI1
+  </data>
+ </layer>
+ <layer name="foreground" width="360" height="27">
+  <data encoding="base64" compression="zlib">
+   eJzt2klKA0EAheFK4gGc8ETqCdSt8Qq6cARdqkfQYzhsHbI3cemUA+jWEVz4AmkIbdF02q6uSvl/8BOICTYUvDRRYwAAAAAAAAAAAAAAAAAAAAAAAAAAiFcr42c1NZZ6rPcfkwAAbnR9XwAAwIp9BoAwDe7zdwkBAMrB/bNf9X6Dsv4mAOD/YJ/Dw5kA6Il9Cy50c3qprtS1aqVvVgMU+5kAyCf2LbjXHj+oR/WkugHtc83Y/1cx9jMBkE/sW/CmPX5XH+pTfQW0zz1t1Uk9F/uZAMhnFLfgbojXjjeMmVCTakpNN5xdViFV7/OuPp/2AvuMAmDnc59n1Vyq+Rzve3V5URV7Vi+p51yeyZG2+Zh9BkaCz31eVs1UKzneF9M+27DPAHrY5/C4OpN1tVGgTUfXAyCbj31OvtdoWmKf3Z3Jltou0I6j6wGQzcc+2+6bk1zv86pa+8P7q+DqTIpsM/sM+FPlPmfdNye52ueTujGn6kydB/796zBnsqAWLS1ZXsv9MzBaqtznrPvmJFf7fKNNbquOulX7eu6gpA7VTO13Zf4OIqL/0g+hSz7r
+  </data>
+ </layer>
+ <objectgroup name="bounding-boxes" width="360" height="27">
+  <object x="1" y="417" width="317" height="13"/>
+  <object x="401" y="418" width="5357" height="13"/>
+  <object x="529" y="271" width="61" height="15"/>
+  <object x="546" y="288" width="26" height="46"/>
+  <object x="975" y="353" width="239" height="65"/>
+  <object x="991" y="302" width="33" height="51"/>
+ </objectgroup>
+</map>
